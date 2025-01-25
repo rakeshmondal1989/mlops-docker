@@ -1,0 +1,3 @@
+# Below docker commands to be executed 
+docker build -t iris_image .
+docker run --name=iris-container -p 4000:8000 iris_image
