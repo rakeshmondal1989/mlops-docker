@@ -1,2 +1,0 @@
-# File transfer from one directory to another using powershell terminal in VSCode
-Copy-Item -Path C:\Users\hp\Downloads\iris.csv -Destination D:\Learning\Docker\python-projects\iris.csv
